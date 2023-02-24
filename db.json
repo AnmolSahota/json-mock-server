@@ -1,29 +1,4 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "title": "hello",
-      "isCompleted": false
-    },
-    {
-      "id": 2,
-      "title": "hello2",
-      "isCompleted": false
-    }
-  ],
-  "accounts": [
-    {
-      "id": 1,
-      "name": "xyz",
-      "roll": 909
-    },
-    {
-      "id": 1,
-      "name": "xyz",
-      "roll": 909
-    }
-  ],
-  "transactions": [],
   "data": [
     {
       "id": 1,
